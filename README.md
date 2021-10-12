@@ -1,4 +1,4 @@
-# Infectious-Pandemics-&-Company-Risk
+# Infectious-Pandemics-&-Company-Risk (MACRO-ENABLED EXCEL FILE)
 # Here are screenshot previews of the Excel model should you wish to access it!
 
 ![Screenshot1](https://user-images.githubusercontent.com/89870207/136972418-f3501102-8552-4bf0-ae6b-80bad28e296a.PNG)
